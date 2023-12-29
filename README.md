@@ -4,28 +4,28 @@
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
-## DESIGN STEPS:
+ALGORITHM
 
-### Step 1:
-Requirement collection.
 
-### Step 2:
-Creating the layout using HTML and CSS.
+1.Requirement collection.
 
-### Step 3:
-Updating the sample content.
 
-### Step 4:
-Choose the appropriate style and color scheme.
+2.Creating the layout using HTML and CSS.
 
-### Step 5:
-Validate the layout in various browsers.
 
-### Step 6:
-Validate the HTML code.
+3.Updating the sample content.
 
-### Step 7:
-Publish the website in the given URL.
+
+4.Choose the appropriate style and color scheme.
+
+
+5.Validate the layout in various browsers.
+
+
+6.Validate the HTML code.
+
+
+7.Publish the website in the given URL.
 
 ## PROGRAM:
 ```
